@@ -5,5 +5,6 @@ public class ChoaAAA {
     private Integer id1;
     private Integer id2;
     private Integer id3;
+    private Integer id4;
 
 }
